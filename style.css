@@ -63,6 +63,7 @@ a {
 .hero-section {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     margin: 100px auto;
 }
 .hero-section h1 {
