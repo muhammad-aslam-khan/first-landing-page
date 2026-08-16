@@ -9,8 +9,8 @@ The web page is designed on following guidelines
 Don’t forget to commit early & often! You can reference the Commit Message lesson!
 
 - Font: Roboto
-- Dark background color (header, hero section and footer): #1F2937\*\*
-- Logo text:\*\*
+- Dark background color (header, hero section and footer): #1F2937
+- Logo text:
   - Font size: 24px
   - Color: #F9FAF8
 
@@ -39,3 +39,7 @@ Don’t forget to commit early & often! You can reference the Commit Message les
 ### Desired Outcome
 
 ![Design Guideline](./Images/desired-outcome.png)
+
+### Attributions
+
+Site favicon is downloaded from **[Webpage icons created by lutfix - Flaticon](https://www.flaticon.com/free-icons/webpage)**
